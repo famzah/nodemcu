@@ -1,6 +1,8 @@
-# Projects for the NodeMCU platform
+# Projects for the NodeMCU platform written in Lua
 
 I am not an experienced developer on the [NodeMCU](http://www.nodemcu.com) platform. But since I like to play with embedded devices as a hobby, I'm publishing my results in case this could be of use to someone else.
+
+- [HTU21D-TLS](HTU21D-TLS/): Measure temperature and humidity, and submit the result to a web server.
 
 # Tools
 
